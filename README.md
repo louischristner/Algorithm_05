@@ -1,5 +1,9 @@
 # Algorithm_05
 
+Images and corresponding probability that predicted Right for all models
+
+![main_model_successes](https://user-images.githubusercontent.com/52711941/172781008-b306d555-fc9d-4b3f-af38-9fc73ea83bca.png)
+
 Images and corresponding probability that predicted Wrong for model number 1
 
 ![main_model_1](https://user-images.githubusercontent.com/52711941/172778699-cae25ce9-5baf-44c4-9187-520a5388d513.png)
